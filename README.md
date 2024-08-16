@@ -3,18 +3,18 @@
 Student: Cynthia Segundo (920083408)
 
 ## Project Status
-This the current status of the project ...
+The project is complete with all 3 circuits passing the tests I attempted.
 
 ## Known Issues
-The project fails to function properly in ...
+As of my current knowledge, there are no issues with the 3 circuits. 
 
 ## References
-* [Build an XOR gate from AND/NOT](https://electronics.stackexchange.com/questions/487529/build-an-xor-gate-from-and-not)
+* [Build a 4 input gate where it only outputs 1 if 1 of 4 is true](https://www.electronicshub.org/universal-gates-nor-gate/)
 * [Truth tables for different gates](https://michellescomputerscience.wordpress.com/2016/08/31/ch-3-logic-gates-and-logic-circuits/)
-
+* [How to use splittera and tunnels for the multiple pins](https://www.youtube.com/watch?v=rGyNtDIzW8I&t=494s)
+  
 ## Generative AI Use
-I used ChatGPT for Prompt 1, and ZZZZZ for Prompt 2....
-
+I did not use any generative AI when working on this project. 
 ### Prompt 1
 How do you create an XOR from only and/or/not gates?
 
